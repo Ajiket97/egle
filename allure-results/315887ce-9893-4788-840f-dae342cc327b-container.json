@@ -1,0 +1,1 @@
+{"uuid":"315887ce-9893-4788-840f-dae342cc327b","name":"com.egle.base.Base.setUp","children":["5622e30b-ce11-443e-a2bb-33ac770f43a7"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1724913611411,"stop":1724913613181}],"afters":[],"start":1724913611411,"stop":1724913613182}
